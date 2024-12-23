@@ -1,0 +1,10 @@
+os
+io
+Pillow==9.5.0
+pyrogram==2.0.107
+langchain-community
+google-generativeai
+collections
+json
+pandas
+re

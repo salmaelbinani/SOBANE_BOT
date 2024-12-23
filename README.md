@@ -23,7 +23,7 @@ The SOBANE Evaluation Chatbot is a Telegram bot designed to assist users in eval
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/salmaelbinani/SOBANE_BOT.git
+git clone https://github.com/latifa-elma/SOBANE_BOT.git
 cd SOBANE_BOT
 ```
 
