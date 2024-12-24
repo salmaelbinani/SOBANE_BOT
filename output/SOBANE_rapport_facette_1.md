@@ -11,7 +11,7 @@
 
 | Aspects à approfondir | Évaluation globale |
 |------------------------|--------------------|
-| * **Respect des distances de sécurité:**  Il est crucial de vérifier si les règles de distance de sécurité entre les piétons et les engins sont respectées en pratique.<br>* **Formation du personnel:**  La formation du personnel sur la sécurité, notamment concernant la circulation des engins et le respect des marquages au sol, doit être vérifiée.<br>* **Organisation du stockage:**  L'affirmation concernant le stockage anarchique nécessite une investigation approfondie pour évaluer l'ampleur du problème et son impact sur la sécurité.<br>* **Présence et efficacité des dispositifs de sécurité:**  Une inspection plus détaillée est nécessaire pour identifier les dispositifs de sécurité existants (ou leur absence) et évaluer leur efficacité.<br>*| 😐 |
+| * **Respect des distances de sécurité:**  Il est crucial de vérifier si les règles de distance de sécurité entre les piétons et les engins sont respectées en pratique.<br>* **Formation du personnel:**  La formation du personnel sur la sécurité, notamment concernant la circulation des engins et le respect des marquages au sol, doit être vérifiée.<br>* **Organisation du stockage:**  L'affirmation concernant le stockage anarchique nécessite une investigation approfondie pour évaluer l'ampleur du problème et son impact sur la sécurité.<br>* **Présence et efficacité des dispositifs de sécurité:**  Une inspection plus détaillée est nécessaire pour identifier les dispositifs de sécurité existants (ou leur absence) et évaluer leur efficacité.| 😐 |
 
 ## Recommandations
 
